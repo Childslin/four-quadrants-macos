@@ -25,7 +25,7 @@
 ## 安装方法
 
 1. 打开右侧的 [Releases](../../releases) 页面。
-2. 下载最新版 `四象限-1.8.0-通用版.dmg`。
+2. 下载最新版 `four-quadrants-macos-1.8.0-universal.dmg`。
 3. 双击 DMG，把「四象限」拖进 `Applications（应用程序）`。
 4. 前往“应用程序”，打开「四象限」。
 
